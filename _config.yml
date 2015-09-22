@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Filosofia no IFB
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Marcos Ramon
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Professor de Filosofia"
   email:
   disqus-shortname:
   twitter: #username
